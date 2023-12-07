@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,9 +7,9 @@
 </head>
 <body>
     <center>
-        <h1>Welcome  to Eduka - Page2</h1>
-        <h2>page 2 </h2>
-        <button>Back to Home</button>
+        <h1>Welcome  to Eduka</h1>
+        <h2>This is home form fix</h2>
+        <button>Click Here</button>
     </center>
 </body>
 </html>
